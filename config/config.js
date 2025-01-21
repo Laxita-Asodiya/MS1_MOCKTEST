@@ -21,6 +21,7 @@ require('dotenv').config({path:'../.env'});
 //   logging: false, 
 // }
 // }
+
 module.exports = {
   development: {
     username: 'postgres.lwexkwmbxaijvlgziqbc',

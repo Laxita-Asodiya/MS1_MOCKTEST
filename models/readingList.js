@@ -1,4 +1,5 @@
 // models/readingList.js
+
 module.exports = (sequelize, DataTypes) => {
     const ReadingList = sequelize.define(
       "ReadingList",

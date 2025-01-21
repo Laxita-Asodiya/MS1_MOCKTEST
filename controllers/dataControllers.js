@@ -6,6 +6,7 @@ const {
 } = require("../models");
 
 
+
 function validateUserAndEmail(data) {
   const errors = []
   if (!data.username) {
