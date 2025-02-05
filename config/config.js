@@ -24,16 +24,16 @@ require('dotenv').config({path:'../.env'});
 
 module.exports = {
   development: {
-    username: 'postgres.lwexkwmbxaijvlgziqbc',
-    password: 'DOfSDgVhamZcSyRA',
+    username: 'postgres.dylzwzcopihltomvbayb',
+    password: 'nbdCWCuF625L8LJH',
     database: 'postgres',
     host: 'aws-0-ap-southeast-1.pooler.supabase.com',
     port: 5432,
     dialect: "postgres"
   } ,
   test:{
-    username: 'postgres.lwexkwmbxaijvlgziqbc',
-    password: 'DOfSDgVhamZcSyRA',
+    username: 'postgres.dylzwzcopihltomvbayb',
+    password: 'nbdCWCuF625L8LJH',
     database: 'postgres',
     host: 'aws-0-ap-southeast-1.pooler.supabase.com',
     port: 5432,
